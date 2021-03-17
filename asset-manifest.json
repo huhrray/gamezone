@@ -1,0 +1,38 @@
+{
+  "files": {
+    "app.js": "/gamezone/static/js/app.8d5e906d.chunk.js",
+    "app.js.map": "/gamezone/static/js/app.8d5e906d.chunk.js.map",
+    "runtime~app.js": "/gamezone/static/js/runtime~app.3ce2e422.js",
+    "runtime~app.js.map": "/gamezone/static/js/runtime~app.3ce2e422.js.map",
+    "static/js/2.bc238804.chunk.js": "/gamezone/static/js/2.bc238804.chunk.js",
+    "static/js/2.bc238804.chunk.js.map": "/gamezone/static/js/2.bc238804.chunk.js.map",
+    "fonts/AntDesign.ttf": "/gamezone/./fonts/AntDesign.ttf",
+    "fonts/Entypo.ttf": "/gamezone/./fonts/Entypo.ttf",
+    "fonts/Feather.ttf": "/gamezone/./fonts/Feather.ttf",
+    "fonts/FontAwesome.ttf": "/gamezone/./fonts/FontAwesome.ttf",
+    "fonts/FontAwesome5_Brands.ttf": "/gamezone/./fonts/FontAwesome5_Brands.ttf",
+    "fonts/FontAwesome5_Solid.ttf": "/gamezone/./fonts/FontAwesome5_Solid.ttf",
+    "fonts/Fontisto.ttf": "/gamezone/./fonts/Fontisto.ttf",
+    "fonts/Foundation.ttf": "/gamezone/./fonts/Foundation.ttf",
+    "fonts/Ionicons.ttf": "/gamezone/./fonts/Ionicons.ttf",
+    "fonts/MaterialCommunityIcons.ttf": "/gamezone/./fonts/MaterialCommunityIcons.ttf",
+    "fonts/MaterialIcons.ttf": "/gamezone/./fonts/MaterialIcons.ttf",
+    "fonts/Nunito-Bold.ttf": "/gamezone/./fonts/Nunito-Bold.ttf",
+    "fonts/Nunito-Regular.ttf": "/gamezone/./fonts/Nunito-Regular.ttf",
+    "fonts/SimpleLineIcons.ttf": "/gamezone/./fonts/SimpleLineIcons.ttf",
+    "favicon-16.png": "/gamezone/favicon-16.png",
+    "favicon-32.png": "/gamezone/favicon-32.png",
+    "favicon.ico": "/gamezone/favicon.ico",
+    "index.html": "/gamezone/index.html",
+    "manifest.json": "/gamezone/manifest.json",
+    "serve.json": "/gamezone/serve.json",
+    "static/js/2.bc238804.chunk.js.LICENSE.txt": "/gamezone/static/js/2.bc238804.chunk.js.LICENSE.txt",
+    "static/media/game_bg.png": "/gamezone/static/media/game_bg.3e9817dd.png",
+    "static/media/heart_logo.png": "/gamezone/static/media/heart_logo.b6269abe.png"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.3ce2e422.js",
+    "static/js/2.bc238804.chunk.js",
+    "static/js/app.8d5e906d.chunk.js"
+  ]
+}
