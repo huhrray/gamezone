@@ -4,8 +4,8 @@
     "app.js.map": "/gamezone/static/js/app.3622affd.chunk.js.map",
     "runtime~app.js": "/gamezone/static/js/runtime~app.3ce2e422.js",
     "runtime~app.js.map": "/gamezone/static/js/runtime~app.3ce2e422.js.map",
-    "static/js/2.4f991d0b.chunk.js": "/gamezone/static/js/2.4f991d0b.chunk.js",
-    "static/js/2.4f991d0b.chunk.js.map": "/gamezone/static/js/2.4f991d0b.chunk.js.map",
+    "static/js/2.f9bbe4bc.chunk.js": "/gamezone/static/js/2.f9bbe4bc.chunk.js",
+    "static/js/2.f9bbe4bc.chunk.js.map": "/gamezone/static/js/2.f9bbe4bc.chunk.js.map",
     "fonts/AntDesign.ttf": "/gamezone/./fonts/AntDesign.ttf",
     "fonts/Entypo.ttf": "/gamezone/./fonts/Entypo.ttf",
     "fonts/Feather.ttf": "/gamezone/./fonts/Feather.ttf",
@@ -26,13 +26,13 @@
     "index.html": "/gamezone/index.html",
     "manifest.json": "/gamezone/manifest.json",
     "serve.json": "/gamezone/serve.json",
-    "static/js/2.4f991d0b.chunk.js.LICENSE.txt": "/gamezone/static/js/2.4f991d0b.chunk.js.LICENSE.txt",
+    "static/js/2.f9bbe4bc.chunk.js.LICENSE.txt": "/gamezone/static/js/2.f9bbe4bc.chunk.js.LICENSE.txt",
     "static/media/game_bg.png": "/gamezone/static/media/game_bg.3e9817dd.png",
     "static/media/heart_logo.png": "/gamezone/static/media/heart_logo.b6269abe.png"
   },
   "entrypoints": [
     "static/js/runtime~app.3ce2e422.js",
-    "static/js/2.4f991d0b.chunk.js",
+    "static/js/2.f9bbe4bc.chunk.js",
     "static/js/app.3622affd.chunk.js"
   ]
 }
